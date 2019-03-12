@@ -1,18 +1,18 @@
 # Site settings
-title: BY Blog
+title: Craterlake Blog
 SEOTitle: 火山湖的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 997018523@qq.com
 description: "focus creates reality"
-keyword: "BY, BY Blog, 火山湖的博客,craterlake, 火山湖,android，java"
-url: "http://Carterlake.github.io"          # your host, for absolute URL
+keyword: " 火山湖的博客,craterlake, 火山湖,android，java"
+url: "https://Carterlake.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Carterlake/Carterlake.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
